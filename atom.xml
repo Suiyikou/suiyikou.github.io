@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://suiyikou.github.io</id>
+    <id>http://suiyikou.github.io</id>
     <title>梧桐树下的微光</title>
-    <updated>2022-01-09T10:20:48.601Z</updated>
+    <updated>2022-01-09T10:21:01.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://suiyikou.github.io"/>
-    <link rel="self" href="https://suiyikou.github.io/atom.xml"/>
+    <link rel="alternate" href="http://suiyikou.github.io"/>
+    <link rel="self" href="http://suiyikou.github.io/atom.xml"/>
     <subtitle>只是一个文章发布小博客</subtitle>
-    <logo>https://suiyikou.github.io/images/avatar.png</logo>
-    <icon>https://suiyikou.github.io/favicon.ico</icon>
+    <logo>http://suiyikou.github.io/images/avatar.png</logo>
+    <icon>http://suiyikou.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 梧桐树下的微光</rights>
 </feed>
