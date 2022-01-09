@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suiyikou.github.io</id>
     <title>梧桐树下的微光</title>
-    <updated>2022-01-09T10:21:26.328Z</updated>
+    <updated>2022-01-09T10:22:16.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suiyikou.github.io"/>
     <link rel="self" href="https://suiyikou.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://suiyikou.github.io/images/avatar.png</logo>
     <icon>https://suiyikou.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 梧桐树下的微光</rights>
+    <entry>
+        <title type="html"><![CDATA[《梧桐树下的微光》]]></title>
+        <id>https://suiyikou.github.io/post/lesslesswu-tong-shu-xia-de-wei-guang-greatergreater/</id>
+        <link href="https://suiyikou.github.io/post/lesslesswu-tong-shu-xia-de-wei-guang-greatergreater/">
+        </link>
+        <updated>2022-01-09T10:21:33.000Z</updated>
+        <content type="html"><![CDATA[<p>关于这本书，我的个人想法是两个</p>
+]]></content>
+    </entry>
 </feed>
